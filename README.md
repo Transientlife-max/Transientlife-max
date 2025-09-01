@@ -15,3 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 Auther: Alaya Fatima
+<br>BS Mathematics<br>
